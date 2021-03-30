@@ -3,8 +3,8 @@ Solution: https://github.com/AmolBhople/CodingPractice/blob/main/src/main/java/a
 Test: https://github.com/AmolBhople/CodingPractice/blob/main/src/test/java/ab/techstack/coding/problems/leetcode/TwoSumTest.java
 
 Problem: https://leetcode.com/problems/longest-common-prefix/
-Solution: 
-Test:
+Solution: https://github.com/AmolBhople/CodingPractice/blob/main/src/main/java/ab/techstack/coding/problems/leetcode/LongestCommonPrefix.java
+Test:https://github.com/AmolBhople/CodingPractice/blob/main/src/test/java/ab/techstack/coding/problems/leetcode/LongestCommonPrefixTest.java
 
 Problem: https://leetcode.com/problems/reverse-integer/
 Solution: https://github.com/AmolBhople/CodingPractice/blob/main/src/main/java/ab/techstack/coding/problems/leetcode/ReverseInteger.java
@@ -40,9 +40,9 @@ Solution: https://github.com/AmolBhople/CodingPractice/blob/main/src/main/java/a
 Test:https://github.com/AmolBhople/CodingPractice/blob/main/src/test/java/ab/techstack/coding/problems/leetcode/SumOfFourTest.java
 
 
-Problem: 
-Solution: 
-Test:
+Problem: https://leetcode.com/problems/merge-two-sorted-lists/
+Solution: https://github.com/AmolBhople/CodingPractice/blob/main/src/main/java/ab/techstack/coding/problems/leetcode/MergeTwoSortedLists.java
+Test:https://github.com/AmolBhople/CodingPractice/blob/main/src/test/java/ab/techstack/coding/problems/leetcode/MergeTwoSortedListsTest.java
 
 
 
