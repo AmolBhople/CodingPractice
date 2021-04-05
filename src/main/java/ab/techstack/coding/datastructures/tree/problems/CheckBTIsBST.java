@@ -8,7 +8,7 @@ public class CheckBTIsBST {
         if(head==null){
             return true;
         }
-        if(head.getData() > min || head.getData() < max){
+        if(head.getData() <= min || head.getData() > max){
             return false;
         }
         return isBST(head.getLeftChild(), min, head.getData()) && isBST(head.getRightChild(), head.getData(), max);
