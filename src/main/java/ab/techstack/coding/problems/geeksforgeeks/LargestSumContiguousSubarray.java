@@ -17,6 +17,11 @@ public class LargestSumContiguousSubarray {
                 maxSoFar = maxEndingHere;
             }
         }
+        String s = "dsflkjndsjfndsf";
+        String substring = s.substring(0, 1);
+        String substring1 = s.substring(2);
+        System.out.println(substring);
+        System.out.println(substring1);
         return maxSoFar;
     }
 
