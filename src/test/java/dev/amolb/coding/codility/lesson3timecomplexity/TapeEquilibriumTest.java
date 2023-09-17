@@ -19,10 +19,9 @@ class TapeEquilibriumTest {
     }
     static Stream<Arguments> argumentsProvider() {
         return Stream.of(
-                arguments(new int[]{2,3,1,5}, 4),
-                arguments(new int[]{2,3,1,5,6}, 4),
-                arguments(new int[]{2,3,1,5,4}, 6),
-                arguments(new int[]{}, 1)
+                arguments(new int[]{3,1,2,4,3}, 1),
+                arguments(new int[]{1,2}, 1),
+                arguments(new int[]{6,3,9}, 0)
         );
     }
 }
